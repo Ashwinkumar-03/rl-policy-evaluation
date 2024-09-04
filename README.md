@@ -61,6 +61,7 @@ if np.max(V1) > np.max(V2):
     print("Policy 1 (pi_1) is better based on the maximum state value.")
 else:
     print("Policy 2 (pi_2) is better based on the maximum state value.")
+```
 ## OUTPUT:
 
 ### first policy
